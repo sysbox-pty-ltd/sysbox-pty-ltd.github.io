@@ -1,0 +1,15 @@
+body {
+    background: aliceblue;
+}
+
+.main-div {
+    margin: 10rem auto;
+    width: 20rem;
+    min-width: 50%;
+    max-width: 100%;
+    text-align: center;
+}
+
+.logo-wrapper {
+    margin: 2rem 0;
+}
