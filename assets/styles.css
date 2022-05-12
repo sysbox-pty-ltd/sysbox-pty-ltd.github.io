@@ -13,3 +13,7 @@ body {
 .logo-wrapper {
     margin: 2rem 0;
 }
+
+ul {
+    list-style: none;
+}
